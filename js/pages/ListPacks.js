@@ -1,5 +1,5 @@
-import { fetchPacks, fetchPackLevels } from "../content.js";
-import { getFontColour, embed } from "../util.js";
+//import { fetchPacks, fetchPackLevels } from "../content.js";
+/*import { getFontColour, embed } from "../util.js";
 import { score } from "../score.js";
 
 import Spinner from "../components/Spinner.js";
@@ -151,3 +151,4 @@ export default {
         getFontColour,
     },
 };
+*/
