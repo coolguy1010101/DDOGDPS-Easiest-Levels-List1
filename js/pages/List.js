@@ -118,7 +118,7 @@ export default {
                     </template>
                      <h3>> How to Submit Records</h3>
                     <p>
-                        Join our discord server, and  use /record submit
+                        Join our discord server, and create a forum.
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
@@ -130,9 +130,8 @@ export default {
                      <p>
                         - Your completion needs to have clicks. If it doesn't (or if it only does for a part of the level, and not the entire run), you have to provide a raw footage with clicks. If you don't, your record will be rejected. Mobile players are NOT exempt from this rule, recorded taps are required.  
                     </p>
-
                     <p>
-                        - Achieved the record on the level that is listed on the site (or an approved LDM of it) - please check the level ID before you submit a record
+                        - Your completion must have atleast minimum 1 Attempt before the completion attempt.
                     </p>
                     <p>
                         - The record has been achieved without using a secret way or a bugged route
@@ -141,45 +140,21 @@ export default {
                         - Cheat Indicator is required if you are using a mod menu that supports one, like Megahack v8.
                     </p>
                     <p>
-                        - End stats (The whole box must appear for at least one frame)
+                        - End stats (The whole box must appear for at least one second)
+                    </p>
+                    <h3>> Level Requirements </h3>
+                    <p>
+                        - Level must not be auto
                     </p>
                     <p>
-                        - FPS/TPS counter is required on 2.1 GDPS up to 360 fps/tps
+                        - Level must be more than 15 seconds
                     </p>
                     <p>
-                        - Using physics bypass on any level in 2.2 is not allowed, and will get your record rejected
+                        - Level must follow the rules on DDOGDPS while uploading.
                     </p>
                     <p>
-                        - Using the 2.1 GDPS is allowed for levels verified in 2.1, up to 360 FPS/TPS
-                    </p>
-                    <p>
-                        - Raw footage (or a pointercrate record of the level) AND clicks will ALWAYS be required for levels in the top 250.
-                    </p>
-                    <p>
-                        - You always need handcam for every level that is listed as "(Solo)" on the list.
-                    </p>
-                    <p>
-                        - Refer to <a href="https://docs.google.com/spreadsheets/d/10AjUUcTpAzOqdfnbz0wtYskL9TdwT4Onv_Fldt5NXBg/edit?usp=sharing">-This Sheet-</a> for a list of allowed and disallowed hacks
-                    </p>
-                    <h3>> Why was my record denied?</h3>
-                    <p>
-                        If your record was denied, please check the following:
-                    </p>
-                    <p>
-                        Does the video meet the requirements? (Above)
-                    </p>
-                    <p>
-                        Is the level placed on the list? (#pending-changes)
-                    </p>
-                    <p>
-                        Was the submission command filled out correctly?
-                    </p>
-                    <p>
-                        Was the record submitted with several links?
-                    </p>
-                    <p>
-                        Note: You will be pinged in #records with the reason why your record was denied. If you are still unsure of why it was denied, or if the record was wrongfully denied, please make a post in #support or DM any list staff on Discord
-                    </p>
+                        - Level cannot be a copy of another level.
+                    <p/>
                 </div>
             </div>
         </main>
