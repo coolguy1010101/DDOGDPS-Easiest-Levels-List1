@@ -144,10 +144,7 @@ export default {
                     </p>
                     <h3>> Level Requirements </h3>
                     <p>
-                        - Level must not be auto
-                    </p>
-                    <p>
-                        - Level must be more than 15 seconds
+                        - Level doesn't have to be rated
                     </p>
                     <p>
                         - Level must follow the rules on DDOGDPS while uploading.
@@ -155,6 +152,9 @@ export default {
                     <p>
                         - Level cannot be a copy of another level.
                     <p/>
+                    <p>
+                        - Level cannot be a "buffed" or "nerfed" version of a different one.
+                    </p>
                 </div>
             </div>
         </main>
